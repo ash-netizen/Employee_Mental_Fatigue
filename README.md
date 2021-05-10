@@ -1,1 +1,5 @@
-# Mental_Fatigue
+*Work Life Integration*
+
+According to a global survey, about 450 million people live with mental disorders, including anxiety, depression, that can be one of the primary causes of poor health, stress and disability worldwide. In the current virtual scenario, it becomes very crucial for employers to know the mental health of their employees as this directly impacts productivity of the company or workflow and also influences team and workplace culture. To assess and understand the situation across the company, a survey was rolled out to the employees of XyX corporation last year. The responses to the survey are provided along with the ‘mental fatigue’ score which was computed for each employee.
+
+we need to review survey results of last year and the ‘Mental fatigue score’ computed for each employee. This data is provided to us in the form of train.csv. We want to understand and observe the change in mental health parameters of all the employees in the XyX corporation. Therefore, we want to predict the mental fatigue score of employees this year based on the provided features and helping XyX corporation to take appropriate corrective steps for their employees.
